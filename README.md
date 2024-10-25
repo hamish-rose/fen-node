@@ -1,4 +1,4 @@
-# Chess Board Model
+# FEN Chess Board Model
 
 This project implements a simple chess board model in TypeScript. It provides functionality to represent a chess board, initialize it from FEN (Forsyth–Edwards Notation) strings, and convert the board state back to FEN.
 
